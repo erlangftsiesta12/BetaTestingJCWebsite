@@ -18,7 +18,7 @@
   }
   .header-area {
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)),
-    url(/asset/bghomepage.jfif);
+    url(/asset/bghomepage.jpg);
     background-position: center center;
     background-size: cover;
   }
